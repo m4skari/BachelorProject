@@ -65,11 +65,6 @@ Python 3.10
 
 Libraries: TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn, cvxopt
 
-📁 Repository Structure
-├── thesis.pdf                # Full project report
-├── ThisIsTheEnd.ipynb        # Jupyter Notebook (code implementation)
-├── README.md                 # Project documentation
-
 📖 References
 
 Markowitz Mean-Variance Portfolio Optimization with Predictive Stock Selection Using Machine Learning (MDPI, 2022)
