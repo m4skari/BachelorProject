@@ -16,9 +16,6 @@ Markowitz’s mean–variance optimization for constructing efficient portfolios
 
 The results demonstrate that portfolios optimized with predicted returns significantly outperform equal-weighted portfolios, achieving higher Sharpe Ratios without substantially increasing risk
 
-810198441
-
-810198441
 
 .
 
